@@ -1,10 +1,15 @@
 body {
     background-color: #F5F5F5;
     color: #364F6B;
+    font-family: adobe-garamond-pro,HelveticaNeue-Light,"Helvetica Neue Light","Helvetica Neue",Helvetica,Arial,"Lucida Grande",sans-serif;
   }
 
   h1 {
       color: #3FC1C9;
+  }
+
+  h3 {
+      color: #3F72AF;
   }
 
   hr {
