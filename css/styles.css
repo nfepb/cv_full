@@ -1,10 +1,15 @@
 body {
-    background-color: #DEFCF9;
+    background-color: #F5F5F5;
+    color: #364F6B;
+  }
+
+  h1 {
+      color: #3FC1C9;
   }
 
   hr {
     background-color: none;
     border-style: none;
-    border-top: 7px dotted #C3BEF0;
+    border-top: 7px dotted #FC5185;
     width: 8%;
   }
