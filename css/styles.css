@@ -1,0 +1,10 @@
+body {
+    background-color: #DEFCF9;
+  }
+
+  hr {
+    background-color: none;
+    border-style: none;
+    border-top: 7px dotted #C3BEF0;
+    width: 8%;
+  }
